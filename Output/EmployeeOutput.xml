@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ASCII"?><CurrentEmployees xmlns:xalan="http://xml.apache.org/xslt">
+    <Candidate>
+        <CandidateID>1</CandidateID>
+        <CandidatePreferredLocation>Chennai</CandidatePreferredLocation>
+        <CandidateProfessionalName>Vignesh</CandidateProfessionalName>
+    </Candidate>
+    <Candidate>
+        <CandidateID>2</CandidateID>
+        <CandidatePreferredLocation>Pondy</CandidatePreferredLocation>
+        <CandidateProfessionalName>Partha</CandidateProfessionalName>
+    </Candidate>
+</CurrentEmployees>
